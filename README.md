@@ -1,2 +1,29 @@
-# ZeroMusic
-学习与实践vue,借助[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi),实现一个网易云音乐播放器
+# zeromusic
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
